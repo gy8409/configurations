@@ -1,0 +1,73 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Oct 10 11:42:59 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("menubar" "indent" "C-i" "mode-hook" "ac-sources" "ac-sour" "ac-sourcs" "add-to-list" "ac-sourc" "delete" "list" "hippie" "loadpath" "setq ac" "forward" "page"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/pyanfield/.emacs.d/init.el" "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/routes/users.js" "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/routes/routes.js" "/Users/pyanfield/dotfiles/.emacs.d/init.el" "/Users/pyanfield/dotfiles/.emacs.d/init.el.bak" "/Users/pyanfield/.emacs.d/elpa/yasnippet-0.9.0.1/snippets/web-mode/fn" "~/.emacs.d/elpa/yasnippet-0.9.0.1/snippets/" "/Users/pyanfield/dotfiles/.emacs.d/init.el" "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/views/layout.html" "/Users/pyanfield/.emacs.d/ac-comphist.dat" "~/.emacs.d/plugins/yasnippet/snippets/web-mode/" "~/.emacs.d/elpa/auto-complete-1.4.0/dict/javascript-mode" "~/.emacs.d/elpa/auto-complete-1.4.0/dict/" "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/routes/message.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/pyanfield/dotfiles/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(linum-mode yas-minor-mode auto-complete-mode)
+  422
+  '(60 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/routes/message.js"
+  "message.js"
+  'web-mode
+  '(linum-mode yas-minor-mode auto-complete-mode)
+  458
+  '(371 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/routes/routes.js"
+  "routes.js"
+  'web-mode
+  '(linum-mode yas-minor-mode)
+  1001
+  '(1001 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/routes/users.js"
+  "users.js"
+  'web-mode
+  '(linum-mode yas-minor-mode)
+  954
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/pyanfield/Workspace/gyLearnGit/HongYiJianKun/views/layout.html"
+  "layout.html"
+  'html-mode
+  '(yas-minor-mode)
+  2390
+  '(845 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
